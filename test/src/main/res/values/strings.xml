@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="base_work_all">全部</string>
+    <string name="base_pratol_name">巡逻</string>
+    <string name="base_prepare_name">备勤</string>
+    <string name="base_prepare_chujin">处警</string>
+    <string name="base_traffic_duty">交警执勤</string>
+    <string name="base_police_duty">值班</string>
+    <string name="base_intelligent">智能巡防</string>
+
+    <string name="base_pratol_name_one">巡</string>
+    <string name="base_prepare_name_one">备</string>
+    <string name="base_prepare_chujin_one">处</string>
+    <string name="base_traffic_duty_one">交</string>
+    <string name="base_police_duty_one">值</string>
+    <string name="base_intelligent_one">智</string>
+</resources>
